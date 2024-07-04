@@ -58,10 +58,11 @@ fork to your machine using one of the commands below, depending on your OS.
 > **NOTE**
 > Your fork's url will be something like this:
 > `https://github.com/judoksarin/kickstart.nvim.git`
+> `git@github.com:judokasarin/kickstart.nvim.git`
 
 
 ```sh
-git clone https://github.com/judoksarin/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone git@github.com:judokasarin/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 </details>
